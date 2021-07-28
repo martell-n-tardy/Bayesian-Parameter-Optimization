@@ -5,11 +5,14 @@ This is a constrained global optimization package built upon bayesian inference 
 ## Installation ##
 The latest release can be obtained by two ways:
 * PyPI (pip):
+
 `$ pip install bayesian-optimization`
 * Conda from conda-forge channel:
+
 `$ conda install -c conda-forge bayesian-optimization`
 
 If you prefer, you can clone it and run the setup.py file. Use the following commands to get a copy from Github and install all dependencies:
+
 `git clone https://github.com/fmfn/BayesianOptimization.git
 cd BayesianOptimization
 python setup.py install`
@@ -33,6 +36,7 @@ This project is under active development, if you find a bug, or anything that ne
 
 ## Citation ##
 If you used this package in your research and is interested in citing it here's how you do it:
+
 `@Misc{,
     author = {Martell Tardy},
     title = {{Bayesian Optimization}: Open source constrained global optimization tool for {Python}},
