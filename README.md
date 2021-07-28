@@ -13,11 +13,9 @@ The latest release can be obtained by two ways:
 
 If you prefer, you can clone it and run the setup.py file. Use the following commands to get a copy from Github and install all dependencies:
 
-`git clone https://github.com/fmfn/BayesianOptimization.git
-
-cd BayesianOptimization
-
-python setup.py install`
+`git clone https://github.com/fmfn/BayesianOptimization.git`
+`cd BayesianOptimization`
+`python setup.py install`
 
 ## Dependencies ##
 * NumPy
