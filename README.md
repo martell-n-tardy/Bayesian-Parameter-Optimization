@@ -37,9 +37,9 @@ This project is under active development, if you find a bug, or anything that ne
 ## Citation ##
 If you used this package in your research and is interested in citing it here's how you do it:
 
-`@Misc{,
-    author = {Martell Tardy},
-    title = {{Bayesian Optimization}: Open source constrained global optimization tool for {Python}},
-    year = {2021--},
-    url = " https://github.com/Bayesian-Parameter-Optimization"
-}`
+    @Misc{,
+        author = {Martell Tardy},
+        title = {{Bayesian Optimization}: Open source constrained global optimization tool for {Python}},
+        year = {2021--},
+        url = " https://github.com/Bayesian-Parameter-Optimization"
+    }
