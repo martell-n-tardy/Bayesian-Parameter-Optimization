@@ -1,5 +1,3 @@
-   ![picture alt](https://github.com/martell-n-tardy/Bayesian-Parameter-Optimization/blob/main/func.png)
-
 # Bayesian-Parameter-Optimization #
 
 This is a constrained global optimization package built upon bayesian inference and gaussian process, that attempts to find the maximum value of an unknown function in as few iterations as possible. This technique is particularly suited for optimization of high cost functions, situations where the balance between exploration and exploitation is important.
