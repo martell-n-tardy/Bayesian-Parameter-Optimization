@@ -23,7 +23,7 @@ If you prefer, you can clone it and run the setup.py file. Use the following com
 * Scikit-learn
 
 ## Quick Overview ##
-For a quick overview of the Bayesian Optimization package, this [jupyter notebook](http://example.com/) provides an detailed example of the package's most important features.
+For a quick overview of the Bayesian Optimization package, the jupyter notebook [Bayesian_optimization_case_study](http://example.com/) provides an detailed example of the package's most important features.
 
 ## How does it work? ##
 Bayesian optimization works by constructing a posterior distribution of functions (gaussian process) that best describes the function you want to optimize. As the number of observations grows, the posterior distribution improves, and the algorithm becomes more certain of which regions in parameter space are worth exploring and which are not, as seen in the picture below.
