@@ -14,7 +14,9 @@ The latest release can be obtained by two ways:
 If you prefer, you can clone it and run the setup.py file. Use the following commands to get a copy from Github and install all dependencies:
 
 `git clone https://github.com/fmfn/BayesianOptimization.git
+
 cd BayesianOptimization
+
 python setup.py install`
 
 ## Dependencies ##
@@ -23,7 +25,7 @@ python setup.py install`
 * Scikit-learn
 
 ## Quick Overview ##
-For a quick overview of the Bayesian Optimization package, this [jupyter notebook]<http://example.com/> provides an detailed example of the package's most important features.
+For a quick overview of the Bayesian Optimization package, this [jupyter notebook](http://example.com/) provides an detailed example of the package's most important features.
 
 ## How does it work? ##
 Bayesian optimization works by constructing a posterior distribution of functions (gaussian process) that best describes the function you want to optimize. As the number of observations grows, the posterior distribution improves, and the algorithm becomes more certain of which regions in parameter space are worth exploring and which are not, as seen in the picture below.
@@ -38,8 +40,12 @@ This project is under active development, if you find a bug, or anything that ne
 If you used this package in your research and is interested in citing it here's how you do it:
 
 `@Misc{,
+    
     author = {Martell Tardy},
+    
     title = {{Bayesian Optimization}: Open source constrained global optimization tool for {Python}},
+    
     year = {2014--},
+    
     url = " https://github.com/Bayesian-Parameter-Optimization"
 }`
