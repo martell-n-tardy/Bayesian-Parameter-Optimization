@@ -1,4 +1,4 @@
-                                ![picture alt](https://github.com/martell-n-tardy/Bayesian-Parameter-Optimization/blob/main/func.png)
+   ![picture alt](https://github.com/martell-n-tardy/Bayesian-Parameter-Optimization/blob/main/func.png)
 
 # Bayesian-Parameter-Optimization #
 
