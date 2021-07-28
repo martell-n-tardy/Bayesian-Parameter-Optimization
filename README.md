@@ -11,12 +11,6 @@ The latest release can be obtained by two ways:
 
 `$ conda install -c conda-forge bayesian-optimization`
 
-If you prefer, you can clone it and run the setup.py file. Use the following commands to get a copy from Github and install all dependencies:
-
-    git clone https://github.com/martell-n-tardy/Bayesian-Parameter-Optimization
-    cd BayesianParameterOptimization
-    python setup.py install
-
 ## Dependencies ##
 * NumPy
 * Scipy
